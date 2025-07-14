@@ -10,5 +10,15 @@ public class Main {
 
 
         System.out.println("Hello World!");
+        System.out.println("Change from feature A");
+        System.out.println("New changes");
+
+
+        System.out.println("Hello World!");
+        System.out.println("Change from feature A");
+        System.out.println("New changes");
+
+
+        System.out.println("Hello World!");
     }
 }
